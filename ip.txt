@@ -1,0 +1,6 @@
+[load_balancer]
+15.206.81.52 ansible_user=ec2-user ansible_ssh_private_key_file=/root/ARTH-hadoop.pem ansible_connection=ssh
+
+[web_server]
+13.127.187.187 ansible_user=ec2-user ansible_ssh_private_key_file=/root/ARTH-hadoop.pem ansible_connection=ssh
+13.126.190.183 ansible_user=ec2-user ansible_ssh_private_key_file=/root/ARTH-hadoop.pem ansible_connection=ssh
