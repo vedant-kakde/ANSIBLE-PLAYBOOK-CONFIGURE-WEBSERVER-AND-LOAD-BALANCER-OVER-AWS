@@ -43,8 +43,8 @@
       description: "EC2 group"
       vpc_id: "vpc-5cef0d37"
       region: "ap-south-1"
-      aws_secret_key: "YFDDG16azbChpKn4/QxFqtbMfnoPbtfK+8G5TvQw"
-      aws_access_key: "AKIAZAEN5LWXUYX6QMH2"
+      aws_secret_key: "YOUR_AWS_SECRET_KEY"
+      aws_access_key: "YOUR_AWS_ACCESS_KEY"
       rules:
       - proto: tcp
         ports:
@@ -58,8 +58,8 @@
       description: "EC2 group"
       vpc_id: "vpc-5cef0d37"
       region: "ap-south-1"
-      aws_secret_key: "YFDDG16azbChpKn4/QxFqtbMfnoPbtfK+8G5TvQw"
-      aws_access_key: "AKIAZAEN5LWXUYX6QMH2"
+      aws_secret_key: "YOUR_AWS_SECRET_KEY"
+      aws_access_key: "YOUR_AWS_ACCESS_KEY"
       rules:
       - proto: tcp
         ports:
@@ -73,8 +73,8 @@
       description: "EC2 group"
       vpc_id: "vpc-5cef0d37"
       region: "ap-south-1"
-      aws_secret_key: "YFDDG16azbChpKn4/QxFqtbMfnoPbtfK+8G5TvQw"
-      aws_access_key: "AKIAZAEN5LWXUYX6QMH2"
+      aws_secret_key: "YOUR_AWS_SECRET_KEY"
+      aws_access_key: "YOUR_AWS_ACCESS_KEY"
       rules:
       - proto: tcp
         ports:
